@@ -7,7 +7,12 @@ With it you can :
 * Change windows state from Tiling to Floating, to Fullscreen
 * Close windows
 
-By default the dock is hiden, and a small arrow on top center of the screen allows to open it.  
+By default the dock is hidden, and a small arrow on top center of the screen allows to open it.  
+  
+# Screenshots  
+![dock hidden](https://informotics.fr/images/articles/i3touchdock/dock-hidden.png)  
+  
+![dock shonw](https://informotics.fr/images/articles/i3touchdock/dock-shown.png)
   
 # Dev notes
 ## transparency
